@@ -1,5 +1,6 @@
 BlackJack
 ==========
+BlackJack es una práctica final para la materia *Fundamentos de Programación* de la carrera Ingeniería de Sistemas en EAFIT. El juego fue completamente desarrollado en **Java** y en el semestre 2012-1.
 
 #Manual de usuario
 ---
@@ -26,3 +27,22 @@ Desarrollo
 Una vez el croupier reparta las cartas iniciales, cada jugador tiene la opción de plantarse o pedir otra carta, si el jugador excede 21 perderá automáticamente.
 
 Al finalizar la ronda de cada jugador, se determinará quién le ganó al croupier y se obtendrán los puntos necesarios.
+
+#Capturas de pantalla
+---
+
+* Ingreso de jugadores
+
+![alt img](https://github.com/svanegas/first_blackjack/blob/master/screenshots/players.png)
+
+* Pantalla principal del juego
+
+![alt img](https://github.com/svanegas/first_blackjack/blob/master/screenshots/game.png)
+
+* Ronda normal
+
+![alt img](https://github.com/svanegas/first_blackjack/blob/master/screenshots/round.png)
+
+* Final de la ronda
+
+![alt img](https://github.com/svanegas/first_blackjack/blob/master/screenshots/new_round.png)
